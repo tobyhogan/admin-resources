@@ -14,7 +14,7 @@ module.exports = {
     // ...
   ],
 
-  pathPrefix: "",
+  pathPrefix: "/admin-resources",
   
 
 }
