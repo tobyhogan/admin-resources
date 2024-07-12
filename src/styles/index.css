@@ -5,3 +5,9 @@ html {
     font-family: "Nunito", sans-serif;
 }
 
+a {
+  color: rgb(113, 115, 211);
+  text-decoration: underline;
+  text-align: center;
+}
+

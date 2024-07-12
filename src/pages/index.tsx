@@ -14,7 +14,10 @@ const mainStyles = {
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <main className="">
-      <h1 className="text-5xl mx-auto w-fit bg-blue-500 mt-10 py-2 px-4">TSX. Gatsby. Tailwind.</h1>
+      <h1 className="text-center text-3xl mt-16 underline">Admin Resources</h1>
+      <ul className="mx-auto w-fit mt-6">
+        <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen: Metrics Tracker</a></li>
+      </ul>
     </main>
   )
 }
