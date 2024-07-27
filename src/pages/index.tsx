@@ -30,7 +30,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <li>- <a href="https://kazenprojects.com" target="_blank">Kazen Projects Landing Page</a></li>
 
       </ul>
-      <h3 className="mt-6">Other</h3>
+      <h3 className="mt-6">Other Links</h3>
       <ul className="mt-3 pl-9">
         <li>- <a href="https://tobyhogan.space" target="_blank">TobyHogan.space Site</a></li>
         <li>- <a href="https://browser-music-viewer-9s0daum6l-toby-hogans-projects.vercel.app/" target="_blank">Track Stem Mixer Web App</a></li>
