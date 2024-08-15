@@ -15,9 +15,10 @@ const IndexPage: React.FC<PageProps> = () => {
   return (
     <main className="">
       <h1 className="text-center text-2xl mt-16 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
-      <h3 className="mt-12">Statistics:</h3>
+      <h3 className="mt-12">Metrics Trackers</h3>
       <ul className="mt-3">
-        <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen: Metrics Tracker</a></li>
+        <li>- <a href="https://analytics.google.com" target="_blank">&#123; Google Analytics &#125; - General</a></li>
+        <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen Metrics Tracker</a></li>
       </ul>
       <h3 className="mt-6">Templates</h3>
       <ul className="mt-3">
@@ -25,14 +26,17 @@ const IndexPage: React.FC<PageProps> = () => {
       </ul>
       <h3 className="mt-6">Business Links</h3>
       <ul className="mt-3 pl-4">
-        <li>- <a href="https://habit-tracker-indol-ten.vercel.app/habit" target="_blank">Habit Tracker</a></li>
-        <li>- <a href="https://tobyhogan.github.io/habit-tracker-landing-page/about" target="_blank">Habit Tracker Landing Page</a></li>
-        <li>- <a href="https://kazenprojects.com" target="_blank">Kazen Projects Landing Page</a></li>
-
+        <li>- <a href="https://habit-tracker-indol-ten.vercel.app/habit" target="_blank">Habitazen Web App</a></li>
+        <li>- <a href="https://tobyhogan.github.io/habit-tracker-landing-page/about" target="_blank">Habitazen Landing Page</a></li>
+        <li>- <a href="https://tobyhogan.github.io/kazen-landing-page/" target="_blank">Kazen Projects Landing Page</a></li>
+      </ul>
+      <h3 className="mt-6">Freelance Links</h3>
+      <ul className="mt-3 pl-4">
+        <li>- <a href="" target="_blank">Freelance & Consulting Site</a></li>
       </ul>
       <h3 className="mt-6">Other Links</h3>
       <ul className="mt-3 pl-4">
-        <li>- <a href="https://tobyhogan.space" target="_blank">TobyHogan.space Site</a></li>
+        <li>- <a href="https://tobyhogan.space" target="_blank">tobyhogan.space Site</a></li>
         <li>- <a href="https://browser-music-viewer.vercel.app/" target="_blank">Track Stem Mixer Web App</a></li>
 
 
