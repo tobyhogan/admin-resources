@@ -32,15 +32,12 @@ const IndexPage: React.FC<PageProps> = () => {
       </ul>
       <h3 className="mt-6">Freelance Links</h3>
       <ul className="mt-3 pl-4">
-        <li>- <a href="" target="_blank">Freelance & Consulting Site</a></li>
+        <li>- <a href="https://tobyhogan.github.io/freelance-landing-page/" target="_blank">Freelance & Consulting Site</a></li>
       </ul>
       <h3 className="mt-6">Other Links</h3>
       <ul className="mt-3 pl-4">
         <li>- <a href="https://tobyhogan.space" target="_blank">tobyhogan.space Site</a></li>
         <li>- <a href="https://browser-music-viewer.vercel.app/" target="_blank">Track Stem Mixer Web App</a></li>
-
-
-
       </ul>
     </main>
   )
