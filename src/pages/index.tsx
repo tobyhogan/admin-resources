@@ -31,7 +31,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <li>- <a href="https://tobyhogan.github.io/kazen-landing-page/" target="_blank">Kazen Projects Landing Page</a></li>
       </ul>
       <h3 className="mt-6">Freelance Links</h3>
-      <ul className="mt-3 pl-4">
+      <ul className="mt-3">
         <li>- <a href="https://tobyhogan.github.io/freelance-landing-page/" target="_blank">Freelance & Consulting Site</a></li>
       </ul>
       <h3 className="mt-6">Other Links</h3>
