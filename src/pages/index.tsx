@@ -28,7 +28,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <ul className="mt-3 pl-4">
         <li>- <a href="https://habit-tracker-indol-ten.vercel.app/habit" target="_blank">Habitazen Web App</a></li>
         <li>- <a href="https://tobyhogan.github.io/habit-tracker-landing-page/about" target="_blank">Habitazen Landing Page</a></li>
-        <li>- <a href="https://tobyhogan.github.io/kazen-landing-page/" target="_blank">Kazen Projects Landing Page</a></li>
+        <li>- <a href="https://tobyhogan.github.io/kazen-projects-landing-page/" target="_blank">Kazen Projects Landing Page</a></li>
       </ul>
       <h3 className="mt-6">Freelance Links</h3>
       <ul className="mt-3">
