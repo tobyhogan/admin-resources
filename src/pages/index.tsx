@@ -17,7 +17,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <h1 className="text-center text-2xl mt-16 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
       <h3 className="mt-12">Metrics Trackers</h3>
       <ul className="mt-3">
-        <li>- <a href="https://analytics.google.com" target="_blank">&#123; Google Analytics &#125; - General</a></li>
+        <li>- <a href="https://analytics.google.com" target="_blank">Google Analytics - Home</a></li>
         <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen Metrics Tracker</a></li>
       </ul>
       <h3 className="mt-6">Templates</h3>
@@ -32,7 +32,8 @@ const IndexPage: React.FC<PageProps> = () => {
       </ul>
       <h3 className="mt-6">Freelance Links</h3>
       <ul className="mt-3">
-        <li>- <a href="https://tobyhogan.github.io/freelance-landing-page/" target="_blank">Freelance & Consulting Site</a></li>
+        <li>- <a href="https://tobyhogan.github.io/consulting-landing-page/" target="_blank">Kazen Consulting Site</a></li>
+        <li>- <a href="https://tobyhogan.github.io/freelance-landing-page/" target="_blank">Toby Hogan Consulting Site</a></li>
       </ul>
       <h3 className="mt-6">Other Links</h3>
       <ul className="mt-3 pl-4">
