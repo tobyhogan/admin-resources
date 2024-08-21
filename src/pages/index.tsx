@@ -20,7 +20,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <li>- <a href="https://github.com/stars/tobyhogan/lists/core" target="_blank">Github - Core Repos</a></li>
         <li>- <a href="" target="_blank">Github - Templates</a></li>
       </ul>
-      <h3 className="mt-12">Metrics Trackers</h3>
+      <h3 className="mt-6">Metrics Trackers</h3>
       <ul className="mt-3">
         <li>- <a href="https://analytics.google.com" target="_blank">Google Analytics - Home</a></li>
         <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen Metrics Tracker</a></li>
