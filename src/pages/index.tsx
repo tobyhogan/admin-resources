@@ -17,7 +17,8 @@ const IndexPage: React.FC<PageProps> = () => {
       <h1 className="text-center text-2xl mt-16 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
       <h3 className="mt-12">Information</h3>
       <ul className="mt-3">
-        <li>- <a href="https://analytics.google.com" target="_blank">Github - Core Repos</a></li>
+        <li>- <a href="https://github.com/stars/tobyhogan/lists/core" target="_blank">Github - Core Repos</a></li>
+        <li>- <a href="" target="_blank">Github - Templates</a></li>
       </ul>
       <h3 className="mt-12">Metrics Trackers</h3>
       <ul className="mt-3">
