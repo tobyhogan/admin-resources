@@ -17,7 +17,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <h1 className="text-center text-2xl mt-16 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
       <h3 className="mt-12">Information</h3>
       <ul className="mt-3">
-        <li>- <a href="https://analytics.google.com" target="_blank">Google Analytics - Home</a></li>
+        <li>- <a href="https://analytics.google.com" target="_blank">Github - Core Repos</a></li>
       </ul>
       <h3 className="mt-12">Metrics Trackers</h3>
       <ul className="mt-3">
@@ -27,6 +27,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <h3 className="mt-6">Templates</h3>
       <ul className="mt-3">
         <li>- <a href="https://tobyhogan.github.io/tsx-gatsby-tailwind-landing-template/" target="_blank">JSX Gatsby Tailwind Landing Page</a></li>
+        <li>- <a href="https://tobyhogan.github.io/" target="_blank">JGT Product Landing Page Template</a></li>
       </ul>
       <h3 className="mt-6">Business Links</h3>
       <ul className="mt-3 pl-4">
