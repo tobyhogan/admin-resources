@@ -13,14 +13,9 @@ const mainStyles = {
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
-    <main className="">
-      <h1 className="text-center text-2xl mt-16 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
-      <h3 className="mt-12">Information</h3>
-      <ul className="mt-3">
-        <li>- <a href="https://github.com/stars/tobyhogan/lists/core" target="_blank">Github - Core Repos</a></li>
-        <li>- <a href="https://github.com/stars/tobyhogan/lists/templates" target="_blank">Github - Templates</a></li>
-      </ul>
-      <h3 className="mt-6">Metrics Trackers</h3>
+    <main className="pb-12">
+      <h1 className="text-center text-2xl mt-12 font-extrabold"> &#62;&#62; ADMIN RESOURCES &#60;&#60;</h1>
+      <h3 className="mt-8">Metrics Trackers</h3>
       <ul className="mt-3">
         <li>- <a href="https://analytics.google.com" target="_blank">Google Analytics - Home</a></li>
         <li>- <a href="https://tobyhogan.github.io/metrics-dashboard/" target="_blank">Habitazen Metrics Tracker</a></li>
